@@ -14,7 +14,7 @@ h1{
 	text-align: center;
 	font-size: 40px;
 	font-weight: 100;
-	position: fixed;
+	position: absolute;
 	top: 50px;
 	width: 100%;
 }
@@ -78,8 +78,4 @@ figcaption{
 .profile canvas:hover{
 	height: 100vh;
 	width: auto;
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index: 999;
 }
