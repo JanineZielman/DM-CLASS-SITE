@@ -1,7 +1,7 @@
 void setup(){
-  //size(800,800);
+  size(800,800);
   background(random(1,225),random(1,225),random(1,225));
-  fullScreen();
+  //fullScreen();
   frameRate (100);
 }
 

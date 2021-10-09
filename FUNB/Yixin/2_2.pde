@@ -3,7 +3,8 @@ float yStep = 10;
 float arcSize = 200;
 
 void setup(){
-  fullScreen();
+  //fullScreen();
+  size (600,600);
 }
 
 void draw(){

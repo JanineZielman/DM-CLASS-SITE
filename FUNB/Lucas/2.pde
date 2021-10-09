@@ -2,8 +2,8 @@ float k;
 float x = 0;
 
 void setup(){
-  //size(800,800);
-  fullScreen();
+  size(800,800);
+  //fullScreen();
   frameRate(24);
   background(0);
 }
