@@ -70,12 +70,12 @@ figcaption{
 	margin-top: 175px;
 }
 
-.profile canvas{
+/* .profile canvas{
 	transition: all 0.4s;
 	position: relative;
-}
+} */
 
-.profile canvas:hover{
+/* .profile canvas:hover{
 	height: 80vh;
 	width: auto;
-}
+} */
