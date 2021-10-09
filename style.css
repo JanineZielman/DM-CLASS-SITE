@@ -65,3 +65,21 @@ figcaption{
 	text-decoration: none;
 	text-align: center;
 }
+
+.marginTop{
+	margin-top: 175px;
+}
+
+.profile canvas{
+	transition: all 0.4s;
+	position: relative;
+}
+
+.profile canvas:hover{
+	height: 100vh;
+	width: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 999;
+}
