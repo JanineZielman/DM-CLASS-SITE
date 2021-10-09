@@ -4,7 +4,8 @@ float b;
 
 
 void setup () {
-  fullScreen(P3D);
+  //fullScreen(P3D);
+  size(600,600,P3D);
   frameRate(100);
   background (0 ,0 , 0);
 }

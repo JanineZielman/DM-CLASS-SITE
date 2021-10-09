@@ -5,5 +5,5 @@ stroke(62, 233, 240);
 noFill();
 
 for (int y= 0; y< 700; y= y+15) {
-   circle(200, 300, y+20);
+   ellipse(200, 300, y+20, y+20);
  }

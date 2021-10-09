@@ -26,7 +26,7 @@ void draw(){
     noFill();
     stroke(255,255,255);
     strokeWeight(10);
-    square(250,mouseX,mouseY);
+    rect(250,mouseX,mouseY, mouseY);
     
     strokeWeight(5);
     line(600,600,400,400);
